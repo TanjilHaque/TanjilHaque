@@ -53,11 +53,9 @@
 
 ---
 
-### 🔥 GitHub Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanjilhaque&theme=tokyonight" alt="Streak stats"/>
-</div>
+🚀 Let's Build Something Great Together
+<div align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coder GIF" /> </div>
+“Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 ---
 
