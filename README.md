@@ -68,4 +68,4 @@ AI tools are my productivity partner — I use them to write code faster, while 
 
 ---
 
-> “Talk is cheap. Show me the code.” – Linus Torvalds
+> I build with a bird’s-eye view: from requirements to architecture, from deployment to scale. AI helps to code, humans define the vision.
