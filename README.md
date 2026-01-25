@@ -4,60 +4,68 @@
 
 <h1 align="center">Hi 👋, I'm Tanjil Haque</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full-stack+developer+from+Bangladesh;MERN+Stack+Enthusiast;Lifelong+learner+%F0%9F%92%BB;Tech+Lover+%F0%9F%A4%96;Always+building+something+cool!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full-stack+Engineer+%7C+MERN+%2B+Next.js;Data-driven+Solutions+%7C+Python+%26+ML;AI-assisted+Development+%7C+System+Design" alt="Typing SVG" />
 </h3>
 
+---
+
+## 🔭 About Me
+I build **end-to-end web solutions** with modern stacks, and I create **data-driven systems** using Python.  
+I design the system, define the architecture, and lead the development process.  
+AI tools are my productivity partner — I use them to write code faster, while I stay in control of logic, design, and quality.
+
+---
+
+## 🧩 What I Do
+
+### Full-Stack Development
+- MERN Stack (MongoDB, Express, React, Node.js)
+- Next.js (SSR, SSG, API Routes)
+- SaaS & SEO-focused websites
+- Clean architecture & scalable systems
+
+### Data Science & Analytics
+- Python (NumPy, Pandas, SciPy, Matplotlib)
+- Data-driven solutions (end-to-end)
+- Machine learning basics (PyTorch experience)
+
+### AI-assisted Engineering
+- LLM-based code generation & debugging
+- AI tools for faster development
+- I’m the designer + executor, AI is the coding assistant
+
+---
+
+## 🛠️ Skills
+
+### Web Development
+- **JavaScript, TypeScript**
+- **React, Next.js**
+- **Node.js, Express**
+- **MongoDB**
+- SEO-driven website development
+
+### Data Science
+- **Python**
+- **NumPy, Pandas, SciPy, Matplotlib**
+- **PyTorch (basic experience)**
+
+### Productivity & Tools
+- AI-assisted coding workflows
+- System design & architecture
+- Code review & quality assurance
+
+---
+
+## 📫 Contact
+**Email:** tanjilhaque7000@gmail.com
+
+---
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Coding" width="60%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coder GIF" />
 </div>
 
 ---
 
-### 🌱 About Me
-
-- 🔭 I’m currently working on: **A real estate website**
-- 🌱 Learning: **React Native**
-- 👯 Open to collaborate on: **JS games & creative frontend**
-- 💬 Ask me about: **HTML, CSS, JavaScript, Firebase**
-- 📫 Reach me at: **tanjilhaque7000@gmail.com**
-- ⚡ Fun fact: **I prefer tabs over spaces**
-
----
-
-### 📱 Connect With Me
-
-<p align="left">
-  <a href="https://codepen.io/tanjil4sure" target="_blank"><img src="https://img.shields.io/badge/Codepen-%23131417.svg?style=for-the-badge&logo=codepen&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/md-tanjil-haque" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/actually_tanjil" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="https://www.youtube.com/c/tj8778" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/md.tanjil_haque" target="_blank"><img src="https://img.shields.io/badge/HackerRank-%2312100E.svg?style=for-the-badge&logo=HackerRank&logoColor=green" /></a>
-</p>
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,redux,vue,svelte,java,python,c,cpp,flutter,figma,docker,aws,bash,git,firebase,d3,graphql" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanjilhaque&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjilhaque&layout=compact&theme=tokyonight" alt="Top languages"/>
-</div>
-
----
-
-🚀 Let's Build Something Great Together
-<div align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coder GIF" /> </div>
-“Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
----
-
-
-> 🚀 *"Talk is cheap. Show me the code." – Linus Torvalds*
+> “Talk is cheap. Show me the code.” – Linus Torvalds
