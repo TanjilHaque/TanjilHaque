@@ -12,7 +12,7 @@
 ## 🔭 About Me
 I build **end-to-end web solutions** with modern stacks, and I create **data-driven systems** using Python.  
 I design the system, define the architecture, and lead the development process.  
-AI tools are my productivity partner — I use them to write code faster, while I stay in control of logic, design, and quality.
+AI tools are my productivity partner. I use them to write code faster, while I stay in control of logic, design, and quality.
 
 ---
 
