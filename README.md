@@ -4,13 +4,13 @@
 
 <h1 align="center">Hi 👋, I'm Tanjil Haque</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full-stack+Engineer+%7C+MERN+%2B+Next.js;Data-driven+Solutions+%7C+Python+%26+ML;AI-assisted+Development+%7C+System+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full-stack+Engineer+%7C+MERN+%2B+Next.js;AI-assisted+Development+%7C+System+Design" alt="Typing SVG" />
 </h3>
 
 ---
 
 ## 🔭 About Me
-I build **end-to-end web solutions** with modern stacks, and I create **data-driven systems** using Python.  
+I build **end-to-end web solutions** with modern stacks.  
 I design the system, define the architecture, and lead the development process.  
 AI tools are my productivity partner. I use them to write code faster, while I stay in control of logic, design, and quality.
 
@@ -24,10 +24,6 @@ AI tools are my productivity partner. I use them to write code faster, while I s
 - SaaS & SEO-focused websites
 - Clean architecture & scalable systems
 
-### Data Science & Analytics
-- Python (NumPy, Pandas, SciPy, Matplotlib)
-- Data-driven solutions (end-to-end)
-- Machine learning basics (PyTorch experience)
 
 ### AI-assisted Engineering
 - LLM-based code generation & debugging
@@ -45,10 +41,6 @@ AI tools are my productivity partner. I use them to write code faster, while I s
 - **MongoDB**
 - SEO-driven website development
 
-### Data Science
-- **Python**
-- **NumPy, Pandas, SciPy, Matplotlib**
-- **PyTorch (basic experience)**
 
 ### Productivity & Tools
 - AI-assisted coding workflows
